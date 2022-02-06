@@ -1,0 +1,6 @@
+void Plus(a, b){
+    return a + b;
+}
+intA = 10;
+Variable = 12;
+print(Plus(intA, Variable));

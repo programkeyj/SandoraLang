@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SandoraApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SandoraApp_jar</output-path>
+    <root id="archive" name="SandoraApp.jar">
+      <element id="module-output" name="SandoraApp" />
+      <element id="module-source" name="SandoraApp" />
+      <element id="file-copy" path="$PROJECT_DIR$/sandoora.md" />
+      <element id="file-copy" path="$PROJECT_DIR$/example.sandora" />
+    </root>
+  </artifact>
+</component>
